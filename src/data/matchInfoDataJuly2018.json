@@ -1,0 +1,81 @@
+[
+    {
+      "gameCount":1,
+      "day": "Saturday",
+      "date": "17-07-2022",
+      "time": "12:00",
+      "pitch":2,
+      "umpire":"RCB",
+      "group":"B",
+      "opponent": "MI",
+      "color":"#b3c2d2",
+      "result":"won",
+      "resultColor":"#6bec0c"
+    },
+    {
+      "gameCount":2,
+      "day": "Saturday",
+      "date": "03-02-2022",
+      "time": "7:30",
+      "pitch":2,
+      "umpire":"MI",
+      "group": "B",
+      "opponent": "Mizoram",
+      "color":"#dcbae4",
+      "result":"won",
+      "resultColor":"#6bec0c" 
+    },
+    {
+      "gameCount":3,
+      "day": "Saturday",
+      "date": "10-02-2022",
+      "time": "2:15",
+      "pitch":2,
+      "umpire":"Mizoram",
+      "group":"B",
+      "opponent": "Jaipur Pink",
+      "color":"#a8dcd5",
+      "result":"lose",
+      "resultColor":"#6bec0c",
+      "inprogress": "no"
+    },
+    {
+      "gameCount":4,
+      "day": "Saturday",
+      "date": "11-08-2022",
+      "time": "9:45",
+      "pitch":2,
+      "umpire":"Delhi Capitals",
+      "group":"Div1 B",
+      "opponent": "Bhopal Tiger",
+      "color":"#c4da98",
+      "result":"won" ,
+      "resultColor":"#6bec0c"
+    },
+    {
+      "gameCount":5,
+      "day": "Saturday",
+      "date": "18-08-2022",
+      "time": "4:30",
+      "pitch":2,
+      "umpire":"KKR",
+      "group":"Div1 B",
+      "opponent": "MI",
+      "color":"#",
+      "result":"none",
+      "resultColor":"#6bec0c"
+    },
+    {
+      "gameCount":6,
+      "day": "Saturday",
+      "date": "10-03-2022",
+      "time": "9:45",
+      "pitch":2,
+      "umpire":"CSK",
+      "group":"B",
+      "opponent": "Punjab Kings",
+      "color":"#f9a3ac",
+      "result":"won",
+      "resultColor":"#6bec0c"
+    }
+  ]
